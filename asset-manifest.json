@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dailygoalsapp/static/css/main.ef211a03.chunk.css",
+    "main.css": "/dailygoalsapp/static/css/main.02f9e698.chunk.css",
     "main.js": "/dailygoalsapp/static/js/main.6376f8f9.chunk.js",
     "main.js.map": "/dailygoalsapp/static/js/main.6376f8f9.chunk.js.map",
     "runtime-main.js": "/dailygoalsapp/static/js/runtime-main.9b222216.js",
@@ -10,13 +10,13 @@
     "static/js/3.a454f08f.chunk.js": "/dailygoalsapp/static/js/3.a454f08f.chunk.js",
     "static/js/3.a454f08f.chunk.js.map": "/dailygoalsapp/static/js/3.a454f08f.chunk.js.map",
     "index.html": "/dailygoalsapp/index.html",
-    "static/css/main.ef211a03.chunk.css.map": "/dailygoalsapp/static/css/main.ef211a03.chunk.css.map",
+    "static/css/main.02f9e698.chunk.css.map": "/dailygoalsapp/static/css/main.02f9e698.chunk.css.map",
     "static/js/2.8a428bff.chunk.js.LICENSE.txt": "/dailygoalsapp/static/js/2.8a428bff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b222216.js",
     "static/js/2.8a428bff.chunk.js",
-    "static/css/main.ef211a03.chunk.css",
+    "static/css/main.02f9e698.chunk.css",
     "static/js/main.6376f8f9.chunk.js"
   ]
 }
