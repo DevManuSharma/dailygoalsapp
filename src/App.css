@@ -87,7 +87,7 @@ button{
 button:hover , button:active{
   
  opacity: .5;
- border: blue 4px solid inset;
+
   
 }
 
